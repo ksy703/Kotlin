@@ -1,0 +1,2 @@
+com/example/myfirstkotlin/BuildConfig.java
+ com.example.myfirstkotlin.BuildConfig
