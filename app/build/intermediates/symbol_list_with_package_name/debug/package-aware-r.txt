@@ -1512,6 +1512,7 @@ id ghost_view_holder
 id gone
 id group_divider
 id groups
+id hello_switch
 id hello_world_btn
 id hideable
 id home
@@ -1633,6 +1634,7 @@ id start
 id stretch
 id submenuarrow
 id submit_area
+id switch1
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans

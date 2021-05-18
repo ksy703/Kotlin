@@ -15,5 +15,9 @@ class FirstActivity : Activity() {
             Toast.makeText(this, "Welcome!", Toast.LENGTH_SHORT).show()
         }
 
+        hello_switch.setOnClickListener{
+            Toast.makeText(this,"Toggle!",Toast.LENGTH_LONG).show()
+        }
+
     }
 }
